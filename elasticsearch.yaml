@@ -1,0 +1,25 @@
+# ======================== Elasticsearch Configuration =========================
+#
+# NOTE: Elasticsearch comes with reasonable defaults for most settings.
+#       Before you set out to tweak and tune the configuration, make sure you
+#       understand what are you trying to accomplish and the consequences.
+#
+# The primary way of configuring a node is via this file. This template lists
+# the most important settings you may want to configure for a production cluster.
+#
+# Please consult the documentation for further information on configuration options:
+# https://www.elastic.co/guide/en/elasticsearch/reference/index.html
+cluster.name: myCluster_01
+node.name: myNode_01
+path.data: F:/Base/ELk/elasticsearch-7.1.0/data
+path.logs: F:/Base/ELk/elasticsearch-7.1.0/logs
+network.host: 127.0.0.1
+http.port: 9200
+
+bootstrap.memory_lock: false
+node.data: true
+node.ingest: true
+node.master: true
+transport.tcp.port: 9300
+xpack.license.self_generated.type: basic
+xpack.security.enabled: false

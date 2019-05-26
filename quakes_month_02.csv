@@ -1,0 +1,63 @@
+net,id,place,type,status,locationSource,magSource
+us,us60003r1c,South of the Kermadec Islands,earthquake,reviewed,us,us
+us,us60003r15,"56km ESE of Ambanja, Madagascar",earthquake,reviewed,us,us
+us,us60003r0x,"6km NW of Hualian, Taiwan",earthquake,reviewed,us,us
+hv,hv70965156,"6km ESE of Pahala, Hawaii",other event,reviewed,hv,hv
+us,us60003r0e,"47km SE of Amukta Island, Alaska",earthquake,reviewed,us,us
+us,us60003r0a,"75km SSE of Haines Junction, Canada",earthquake,reviewed,us,us
+ak,ak0196kkhufq,"75km SSE of Haines Junction, Canada",earthquake,automatic,ak,ak
+pr,pr2019143002,"76km NNE of Punta Cana, Dominican Republic",earthquake,reviewed,pr,pr
+pr,pr2019143001,"12km SSE of Punta Santiago, Puerto Rico",earthquake,reviewed,pr,pr
+pr,pr2019143000,"44km N of Culebra, Puerto Rico",earthquake,reviewed,pr,pr
+us,us60003qzn,"44km WSW of Santa Cruz, Chile",earthquake,reviewed,us,us
+ak,ak0196khvssg,"73km SSW of Kobuk, Alaska",earthquake,automatic,ak,ak
+us,us60003qzf,"5km SW of Gastouni, Greece",earthquake,reviewed,us,us
+us,us60003qyv,"22km ENE of Lautaro, Chile",earthquake,reviewed,us,us
+us,us60003qyp,"247km WSW of Tomatlan, Mexico",earthquake,reviewed,us,us
+us,us60003qxv,"100km SW of Paredon, Mexico",earthquake,reviewed,us,us
+ak,ak0196j6i3r3,"21km W of Nikiski, Alaska",earthquake,automatic,ak,ak
+pr,pr2019142006,"88km N of Road Town, British Virgin Islands",earthquake,reviewed,pr,pr
+mb,mb80345099,"2km WNW of Manhattan, Montana",earthquake,reviewed,mb,mb
+us,us60003qsv,"97km NE of Hihifo, Tonga",earthquake,reviewed,us,us
+us,us60003qs2,Southeast of Easter Island,earthquake,reviewed,us,us
+ak,ak0196j2t694,"13km S of Big Lake, Alaska",earthquake,automatic,ak,ak
+us,us60003qnb,"287km SE of Vostok, Russia",earthquake,reviewed,us,us
+us,us60003qkr,"100km SE of Phek, India",earthquake,reviewed,us,us
+us,us60003qk9,South of the Fiji Islands,earthquake,reviewed,us,us
+us,us60003qk5,"268km S of Citotok, Indonesia",earthquake,reviewed,us,us
+us,us60003qjs,"195km SE of Sarangani, Philippines",earthquake,reviewed,us,us
+ci,ci38601560,"32km NE of Ensenada, B.C., MX",earthquake,reviewed,ci,ci
+ci,ci38601552,"17km SW of Puebla, B.C., MX",earthquake,reviewed,ci,ci
+ci,ci38601480,"23km SW of Ocotillo Wells, CA",earthquake,reviewed,ci,ci
+ci,ci38601472,"26km ENE of Coso Junction, CA",earthquake,reviewed,ci,ci
+nc,nc73185161,"6km WNW of The Geysers, CA",earthquake,reviewed,nc,nc
+us,us60003qhg,"13km S of Rio Bueno, Chile",earthquake,reviewed,us,us
+us,us60003qhe,"14km SW of Santa Lucia Cotzumalguapa, Guatemala",earthquake,reviewed,us,us
+ak,ak0196iwqblq,"29km SSW of Shishmaref, Alaska",earthquake,automatic,ak,ak
+us,us60003qh8,"44km WSW of Trinidad, Colorado",earthquake,reviewed,us,us
+us,us60003qi1,"8km NNE of Winsum, Netherlands",earthquake,reviewed,us,us
+pr,pr2019142002,"74km NNW of Road Town, British Virgin Islands",earthquake,reviewed,pr,pr
+us,us60003qh3,"40km NW of Abra Pampa, Argentina",earthquake,reviewed,us,us
+pr,pr2019142001,"51km NW of San Antonio, Puerto Rico",earthquake,reviewed,pr,pr
+us,us60003qgi,"254km WNW of Saumlaki, Indonesia",earthquake,reviewed,us,us
+us,us60003qgn,"6km SE of Hualian, Taiwan",earthquake,reviewed,us,us
+pr,pr2019142000,"74km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,reviewed,pr,pr
+us,us60003qg7,"243km N of Bamboo Flat, India",earthquake,reviewed,us,us
+ak,ak0196iucomy,"76km SSW of Kaktovik, Alaska",earthquake,automatic,ak,ak
+ak,ak0196hkkmcm,"14km WNW of Kalifornsky, Alaska",earthquake,automatic,ak,ak
+pr,pr2019141005,"67km NNW of San Antonio, Puerto Rico",earthquake,reviewed,pr,pr
+us,us60003qf5,Off the coast of Ecuador,earthquake,reviewed,us,us
+pr,pr2019141004,"63km ENE of Miches, Dominican Republic",earthquake,reviewed,pr,pr
+us,us60003qef,"7km NW of Langston, Oklahoma",earthquake,reviewed,us,us
+us,us60003qel,"52km NE of Agrihan, Northern Mariana Islands",earthquake,reviewed,us,us
+us,us60003qcs,"5km NE of Union City, Oklahoma",earthquake,reviewed,us,us
+us,us60003qcj,"16km NW of Ovalle, Chile",earthquake,reviewed,us,us
+us,us60003qcd,"8km ENE of Holdenville, Oklahoma",earthquake,reviewed,us,us
+us,us60003qcc,South of the Kermadec Islands,earthquake,reviewed,us,us
+us,us60003qcr,"53km ESE of Buala, Solomon Islands",earthquake,reviewed,us,us
+us,us70003p1q,"53km E of Bunobogu, Indonesia",earthquake,reviewed,us,us
+nc,nc73184841,"16km ESE of Pine Hills, CA",earthquake,reviewed,nc,nc
+ak,ak0196hh0e7p,"66km NW of Cape Yakataga, Alaska",earthquake,reviewed,ak,ak
+us,us70003p00,"33km SW of Sola, Vanuatu",earthquake,reviewed,us,us
+ci,ci38600992,"84km SE of Maneadero, B.C., MX",earthquake,reviewed,ci,ci
+pr,pr2019141003,"12km SSW of Potala Pastillo, Puerto Rico",earthquake,reviewed,pr,pr
